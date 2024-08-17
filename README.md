@@ -1,5 +1,5 @@
 # Shashank Chandran
-Software Engineer | Portfolio: [yourportfolio.github.io](https://iamcrazyshank.github.io/latestCV/)
+Software Engineer | Portfolio: [CV](https://iamcrazyshank.github.io/latestCV/)
 
 ## Summary
 1-2 sentences summarizing your professional experience and expertise
