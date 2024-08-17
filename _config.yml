@@ -1,1 +1,15 @@
 
+title: Shashank Chandran 
+
+logo: 1.png 
+
+description: Senior Software Engineer. 
+
+show_downloads: true 
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: iamcrazyshank@gmail.com 
